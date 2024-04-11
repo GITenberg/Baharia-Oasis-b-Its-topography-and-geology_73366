@@ -1,0 +1,33 @@
+_repo: Baharia-Oasis-b-Its-topography-and-geology_73366
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Ball, John
+    birthdate: 1818
+    deathdate: 1889
+    gutenberg_agent_id: '46903'
+    url: http://www.gutenberg.org/2009/agents/46903
+    wikipedia: https://en.wikipedia.org/wiki/John_Ball_(naturalist)
+  - agent_name: Beadnell, Hugh J. L.
+    gutenberg_agent_id: '57045'
+    url: http://www.gutenberg.org/2009/agents/57045
+description: ''
+gutenberg_issued: '2024-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73366'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=coo.31924004022525
+pgterms:marc905: 20240402052622ball
+pgterms:marc906: '1903'
+pgterms:marc907: EG
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the HathiTrust Digital Library/Cornell University)
+publication_note: '  $aCairo :$bNational Printing Department, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Baharia Oasis : $b Its topography and geology'
+url: http://www.gutenberg.org/ebooks/73366
